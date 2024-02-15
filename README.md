@@ -1,2 +1,2 @@
 ﻿# Shashank_GK_Portfolio
-Welcome to my GitHub repository! Here, you'll find a collection of my software projects, showcasing my skills in various programming languages and technologies such as C++, Java, Python, React, and Bootstrap. Explore my work to see examples of my coding style, problem-solving abilities, and passion for software development.
+Welcome to my portfolio! As an aspiring software engineer, I showcase my journey through academia and internship experiences. Proficient in languages like C++, Java, and Python, I bring hands-on expertise in web development with React and Bootstrap. Explore my projects and skills as I strive to innovate and contribute in the tech world.
